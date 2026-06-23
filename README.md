@@ -1,7 +1,6 @@
 # Exercícios da Aula 15 de Desenvolvimento Web I - ADS
 
 ## Exercício 1 
-- Link: [exer1.html]()
 - Link: [exer1.html](https://github.com/anna-dev3148/web-aula15-html/blob/main/exer1.html)
 
 ## Exercício 2 
